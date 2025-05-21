@@ -2,6 +2,7 @@
 
 Complete printplaat met alle schakelingen van zowel gelijkrichting als opamps @Vives kortrijk
 Met een printbare voet voor betere stabiliteit en geen kortsluiting te krijgen.
+Op deze voet wordt er gewerkt met heated inserts (M3) voor het monteren van de print.
 
 ![Assembled PCB](Afbeeldingen/sideAngle.jpg)
 
